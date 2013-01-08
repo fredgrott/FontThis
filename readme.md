@@ -1,7 +1,7 @@
 FontThis
 ---
 
-
+![FontThis logo](https://raw.github.com/shareme/FontThis/master/Font_Bool_Icon.png)
 
 # Introduction
 
@@ -10,7 +10,7 @@ point will do specimen sheets.
 
 # License
 
-Fonts under their specified licenses, often APL2 GPL, etc.
+Fonts under their specified licenses, often APL2 GPL, SIL, etc.
 
 # Credits
 
@@ -19,4 +19,11 @@ use as we do appreciate it.
 
 # Created By
 
-![GWS logo](https://raw.github.com/shareme/FontThis/master/gws_slide_logo.png)
+<a href='http://fredgrott.bitbucket.org'><img src='https://raw.github.com/shareme/FontThis/master/gws_slide_logo.png'/></a>
+
+<a href='http://about.me/fredgrott'><img src='https://raw.github.com/shareme/FontThis/master/me-icon.png'/></a>
+
+<a href='http://grottworkshop.blogspot.com'><img src='https://raw.github.com/shareme/FontThis/master/blogger-icon.png'/></a>
+
+
+
