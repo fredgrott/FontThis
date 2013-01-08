@@ -1,7 +1,7 @@
 FontThis
 ---
 
-![FontThis logo](https://raw.github.com/shareme/FontThis/master/Font_Bool_Icon.png)
+![FontThis logo](https://raw.github.com/shareme/FontThis/master/Font_Book_Icon.png)
 
 # Introduction
 
